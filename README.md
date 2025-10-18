@@ -5,7 +5,7 @@ Sistema cardiovascular
 # Práctica: Sistema cardiovascular
 
 ## Información de la estudiante
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Valeria Camacho Lopez \[C22211475]; L22211475@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
