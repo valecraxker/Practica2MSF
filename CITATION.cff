@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Matlab, Spyder'
+message: lenguaje m. phyton
+type: software
+authors:
+  - given-names: Valeria
+    family-names: Camacho Lopez
+    email: L22211475@TECTIJUANA.EDU.MX
+    affiliation: ITT
+repository-code: 'https://github.com/valecraxker/Practica2MSF'
+keywords:
+  - Controlador PI
+  - Sistema cardiovascular
+  - Modelo matemático
+  - Simulaciones numéricas
+  - Circuito RLC
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-17'
